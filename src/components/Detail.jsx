@@ -31,7 +31,7 @@ const Detail = () => {
             <>
               <div className="flex w-full justify-between gap-x-4">
                 <div className="w-1/3">
-                  <p className="text-white text-2xl font-bold font-alkatra">
+                  <p className="text-amber-500 text-2xl font-bold font-alkatra tracking-widest">
                     Name
                   </p>
                   <p className="bg-white rounded-md w-full py-1 px-3 font-lato font-medium mb-4">
@@ -39,7 +39,7 @@ const Detail = () => {
                   </p>
                 </div>
                 <div className="w-1/3">
-                  <p className="text-white text-2xl font-bold font-alkatra">
+                  <p className="text-amber-500 text-2xl font-bold font-alkatra tracking-widest">
                     Gender
                   </p>
                   <p className="bg-white rounded-md w-full py-1 px-3 font-lato font-medium mb-4">
@@ -47,7 +47,7 @@ const Detail = () => {
                   </p>
                 </div>
                 <div className="w-1/3">
-                  <p className="text-white text-2xl font-bold font-alkatra">
+                  <p className="text-amber-500 text-2xl font-bold font-alkatra tracking-widest">
                     Age
                   </p>
                   <p className="bg-white rounded-md w-full py-1 px-3 font-lato font-medium mb-4">
@@ -55,7 +55,7 @@ const Detail = () => {
                   </p>
                 </div>
               </div>
-              <p className="text-white text-2xl font-bold font-alkatra">
+              <p className="text-amber-500 text-2xl font-bold font-alkatra tracking-widest">
                 Description
               </p>
               <p className="bg-white rounded-md w-full py-1 px-3 font-lato font-medium mb-4">
