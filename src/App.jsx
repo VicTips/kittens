@@ -16,7 +16,7 @@ const App = () => {
   const loading = useSelector((state) => state.kittens.loading);
   return (
     <div className="bg-gradient-to-r from-cyan-700 to-indigo-800 bg-contain min-h-screen flex justify-center items-center shadow-inner">
-      <div className="w-[94%] max-w-7xl">
+      <div className="w-[94%] max-w-7xl py-14">
         <div className="flex justify-center">
           <Logo />
         </div>
